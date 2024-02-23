@@ -57,6 +57,7 @@
   "dependencies": {
     "@auth/prisma-adapter": "1.0.12",
     "@img/sharp-darwin-arm64": "^0.33.2",
+    "@img/sharp-linux-x64": "^0.33.2",
     "classnames": "^2.5.1"
   }
 }
